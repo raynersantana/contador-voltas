@@ -1,2 +1,4 @@
 # contador-voltas
-Contador de voltar de corrida
+Contador de voltas de corrida
+
+Usado no aprendizado de funcionalidades do React.
